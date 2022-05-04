@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024322662211",
+    "project_id": "ethio-flix",
+    "storage_bucket": "ethio-flix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024322662211:android:d1e51687c8f761d6c8c9f6",
+        "android_client_info": {
+          "package_name": "com.example.ethio_flix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024322662211-4r4itgcp3khcv76r2c07fg8j5mqu4u8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ethio_flix",
+            "certificate_hash": "280b3b91ecc72ed5b5782e1e2a021586528319e6"
+          }
+        },
+        {
+          "client_id": "1024322662211-q5idb7jb1nnf3ge4n6q2m1ir56milgkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAen-BN_Nf80aEXPbUAch4tVvV2yJItQdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024322662211-q5idb7jb1nnf3ge4n6q2m1ir56milgkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
