@@ -1,6 +1,6 @@
 EthioFlix
-![photo_2022-06-20_10-45-52](https://user-images.githubusercontent.com/45810961/185795141-feda36a4-f4ec-4b7a-9969-af4000b50bd8.jpg),![photo_2022-08-21_10-53-59](https://user-images.githubusercontent.com/45810961/185795148-af323526-017e-48ef-a287-eee78067fe7e.jpg)
-
+![photo_2022-06-20_10-45-52](https://user-images.githubusercontent.com/45810961/185795141-feda36a4-f4ec-4b7a-9969-af4000b50bd8.jpg)
+![photo_2022-08-21_10-53-59](https://user-images.githubusercontent.com/45810961/185795148-af323526-017e-48ef-a287-eee78067fe7e.jpg)
 ![photo_2022-08-21_10-54-23](https://user-images.githubusercontent.com/45810961/185795165-95566dbb-340d-482e-9803-c7e992e77fcb.jpg)
 ![photo_2022-08-21_10-54-25](https://user-images.githubusercontent.com/45810961/185795176-cdee028e-cfb6-4820-9c2c-47caa643a250.jpg)
 ![photo_2022-08-21_10-54-28](https://user-images.githubusercontent.com/45810961/185795187-5b7f0b07-919e-4fb6-a513-6a5d72490859.jpg)
